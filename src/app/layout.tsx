@@ -27,7 +27,7 @@ export default function RootLayout({
       <head>
         <Script
           id="vwo-loader"
-          src="https://dev.visualwebsiteoptimizer.com/lib/1079634.js"
+          src="https://dev.visualwebsiteoptimizer.com/tag/1210140.js"
           strategy="beforeInteractive"
         />
       </head>
