@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
-const repoName = "jslib-nextjs-website";
+const repoName =
+  process.env.GITHUB_REPOSITORY?.split("/")[1] || "jslib-nextjs-website-sync";
 const basePath = process.env.GITHUB_ACTIONS ? `/${repoName}` : "";
 
 const nextConfig = {
