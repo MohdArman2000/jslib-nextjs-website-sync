@@ -26,7 +26,7 @@ export default function RootLayout({
       <head>
         <script
           id="vwo-loader"
-          src="https://dev.visualwebsiteoptimizer.com/tags/1216670.js"
+          src="https://dev.visualwebsiteoptimizer.com/tag/1216670.js"
         />
       </head>
       <body className={satoshi.className}>
