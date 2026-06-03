@@ -24,10 +24,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script
-          id="vwo-loader"
-          src="https://edge.wingify.net/tag/1239729.js"
-        />
+        {/* Start Wingify SmartCode */}
+        <script src="https://edge.wingify.net/tag/1239729.js" />
+        {/* End Wingify SmartCode */}
       </head>
       <body className={satoshi.className}>
         <HolyLoader color="#868686" />
