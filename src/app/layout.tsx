@@ -25,7 +25,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/* Start Wingify SmartCode */}
-        <script src="https://edge.wingify.net/tag/1239729.js" />
+        <script src="https://edge.wingify.net/tag/1245333.js" />
         {/* End Wingify SmartCode */}
       </head>
       <body className={satoshi.className}>
